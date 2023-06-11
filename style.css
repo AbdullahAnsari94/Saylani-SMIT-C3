@@ -34,7 +34,6 @@ body {
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
 .Summary, .Experience, .Education {
 	margin-bottom: 20px;
-    padding: 40px;
 }
 .h2 {
 	background-color: blue;
