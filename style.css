@@ -22,13 +22,13 @@ body {
 .left {
 	position: initial;
 	background-color: rgb(119, 231, 246);
-	padding: 30px;
+	padding: 10px;
 
 }
 .right {
 	position: initial;
 	background-color: rgb(141, 185, 189);
-	padding: 30px;
+	padding: 10px;
 
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
