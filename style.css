@@ -33,7 +33,7 @@ body {
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
 .Summary, .Experience, .Education {
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
 .h2 {
 	background-color: blue;
