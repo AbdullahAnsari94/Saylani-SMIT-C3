@@ -12,8 +12,8 @@ body {
 }
 .full {
 	width: 100%;
-	max-width: 1000px;
-	min-height: 100px;
+	max-width: 1500px;
+	min-height: 250px;
 	background-color: rgb(241, 229, 214);
 	margin: 5px;
 	display: grid;
