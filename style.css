@@ -11,24 +11,24 @@ body {
 	align-items: center;
 }
 .full {
-	width: 80%;
+	width: 100%;
 	max-width: 1000px;
 	min-height: 100px;
 	background-color: rgb(241, 229, 214);
-	margin: 2px;
+	margin: 0px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
 }
 .left {
 	position: initial;
 	background-color: rgb(119, 231, 246);
-	padding: 10px;
+	padding: 25px;
 
 }
 .right {
 	position: initial;
 	background-color: rgb(141, 185, 189);
-	padding: 10px;
+	padding: 25px;
 
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
