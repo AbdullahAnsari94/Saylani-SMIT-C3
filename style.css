@@ -16,22 +16,26 @@ body {
 }
 .left {
 	background-color: rgb(219, 246, 119);
-	padding: 40px;
+	padding: 25px;
 
 }
 .right {
 	background-color: rgb(141, 185, 189);
-	padding: 40px;
+	padding: 25px;
 
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
 .Summary, .Experience, .Education {
-	margin-top: 30px;
+	margin-top: 25px;
 }
 .h2 {   
 	background-color: blue;
 }
 
 td,th{
+	padding: 10px;
+}
+
+ul,li{
 	padding: 10px;
 }
