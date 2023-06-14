@@ -26,7 +26,7 @@ body {
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
 .Summary, .Experience, .Education {
-	margin-top: 25px;
+	margin-top: 10px;
 }
 .h2 {   
 	background-color: blue;
@@ -37,5 +37,5 @@ td,th{
 }
 
 ul{
-	padding-left: 10px;
+	padding-left: 20px;
 }
