@@ -16,12 +16,12 @@ body {
 }
 .left {
 	background-color: rgb(219, 246, 119);
-	padding: 50px;
+	padding: 40px;
 
 }
 .right {
 	background-color: rgb(141, 185, 189);
-	padding: 30px;
+	padding: 40px;
 
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
