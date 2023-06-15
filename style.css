@@ -34,8 +34,9 @@ body {
 
 td,th{
 	padding: 5px;
+	text-align: center;
 }
 
 ul{
-	padding-left: 20px;
+	padding-left: 30px;
 }
